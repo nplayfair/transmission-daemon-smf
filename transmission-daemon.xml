@@ -59,7 +59,7 @@
 		<instance name='default' enabled='false'>
 
 			<method_context>
-				<method_credential user='transmission' group='other' />
+				<method_credential user='torrent' group='media' />
 			</method_context>
 
 		</instance>
